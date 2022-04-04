@@ -1,5 +1,5 @@
 function List() {
-  return <h1>Header</h1>;
+  return <h1>List</h1>;
 }
 
 export default List;
